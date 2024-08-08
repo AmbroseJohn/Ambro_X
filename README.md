@@ -1,15 +1,127 @@
- # AMBRO_X
-   <a><img src='https://i.imgur.com/20240808_140857.jpg'/></a><a><img src='https://i.imgur.com/20240808_140857.jpg'/></a>
+
+# AMBRO_X
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ AMBRO_+X+★MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AMBROSE+JOHN;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ AMBRO_+X★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+AMBROSE+JOHN;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/20240808_140857.jpg"/> 
+<img src="https://github.com/AmbroseJohn/AmbroX/blob/0515127542f26b11fe3976e0fb9ccb9f2f69404b/20240808_140857.jpg"/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{Ambrosejohn}/count.svg" alt="Ambrosejohn :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/Ambrosejohn/followers"><img title="Followers" src="https://img.shields.io/github/followers/AmbroseJohn?color=purple&style=flat-square"></a>
-<a href="https://github.com/Ambrosejohn/Ambro_X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ambrojohn/Ambro_X?color=blue&style=flat-square"></a>
-<a href="https://github.com/Ambrojohn/Ambro_X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ambrosejohn/Ambro_X?color=purple&style=flat-square"></a>
-<a href="https://github.com/Ambrosejohn/Ambro_X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ambrosejohn/Ambro_X?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ambrosejohn/Ambro_X/"><i
+<a href="https://github.com/AmbroseJohn/followers"><img title="Followers" src="https://img.shields.io/github/followers/AmbroseJohn?color=red&style=flat-square"></a>
+<a href="https://github.com/AmbroseJohn/Ambro_X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ambrosejohn/Ambro_X?color=blue&style=flat-square"></a>
+<a href="https://github.com/AmbroseJohn/Ambro_X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ambrosejohn/Ambro_X?color=red&style=flat-square"></a>
+<a href="https://github.com/Ambrosejohn/Ambro_X/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ambrosejohn/Ambro_Xlabel=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ambrosejohn/Ambro_X"><img title="Size" src="https://img.shields.io/github/repo-size/Ambrosejohn/Ambro_X?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmbrosejohn%2FAmbro_X&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/AmbroseJohn/Ambro_X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+
+ ## AMBRO_X Deployment Methods
+
+### 1. FORK THIS REPO
+
+<a href='https://github.com/Ambrosejohn/Ambro_X/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+### 2. GET SESSION ID HERE
+
+### SERVER 1
+ 
+<a href="https://anita-server-1.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR_CODE-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://anita-server-1.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-green" alt="Click Here to Get QR-Code" width="90"></a>
+
+### SERVER 2 
+### GET SESSION ID HERE
+
+<a href="https://queen-anita-server-2.onrender.com/pair"><img src="https://img.shields.io/badge/PAIR CODE-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+
+<a href="https://queen-anita-server-2.onrender.com/wasiqr"><img src="https://img.shields.io/badge/QR CODE-blue" alt="Click Here to Get QR-Code" width="90"></a>
+### **PLEASE PICK RANDOMLY DON'T SPAM A PARTICULAR SERVER**
+
+
+### DEPLOY ON RENDER
+
+1. If you don't have an account in RENDER, create one and deploy.
+    <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+## Watch Tutorial videos.
+* [![YOUTUBE](https://img.shields.io/badge/HOW_TO_DEPLOY-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/)
+
+
+### DEPLOY ON CLEVER CLOUD
+
+1. If you don't have an account in Clever Cloud, create one and deploy.
+    <br>
+    <a href='https://api.clever-cloud.com/v2/sessions/signup?subscription_source=cta-home-signup' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=clever-cloud&logoColor=white'/></a>
+
+### DEPLOY ON HEROKU
+
+1. If you don't have an account in Heroku, create one.
+    <br>
+    <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+2. Now deploy.
+    <br>
+    <a href='https://dashboard.heroku.com/new?template=https://github.com/Ambrosejohn/Ambro_X' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+### DEPLOY ON REPLIT
+1. Deploy.
+    <br>
+    <a href='https://replit.com/github/Ambrosejohn/Ambro_X' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+### DEPLOY ON RAILWAY
+1. Deploy.
+    <br>
+    <a href='https://railway.com/github/Ambrosejohn/Ambro_x' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
+
+    <h2 align="center"> ⚠️ NOTE  </h2>
+## AMBRO_X SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/2349038988411"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/AmbroseJohnX"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
+<p align="center">
+<img alt="Development" width="250" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+<a><img
+src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+# 
+
+<br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+* [🧑‍💻 Follow Ambro_X Whatsapp Channel🧑‍💻](https://https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13)
+
+* [🧑‍💻 Join Ambro X Telegram Group 🧑‍💻](https://t.me/ambro_x_bot)
+
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+
+- *Ambro_X is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account.*
+- *Use Ambro_X at your own risk by keeping this warning in mind.*
+  
+  #### ```AMBROSE JOHN PROFILE VIEWS 🧚```
+![Visitor Count](https://profile-counter.glitch.me/Ambrosejohn/count.svg)
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+## HELPERS = PINGBOSS
+
+## Support
+
+SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/Ambrosejohn)
+<b>Version -> 1.0.0</b>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
