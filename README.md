@@ -83,7 +83,7 @@
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349038988411"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2349038988411"><img src="https://img.shields.io/badge/Contact Ambrose-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/AmbroseJohnX"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -95,11 +95,11 @@ src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHi
 <br>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-* [🧑‍💻 Follow Ambro_X Whatsapp Channel🧑‍💻](https://https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13)
+* [🧑‍💻 Follow Ambro_X Whatsapp Channel🧑‍💻](https://whatsapp.com/channel/0029VakmvQfLNSa86ho5fq13)
 
 * [🧑‍💻 Join Ambro X Telegram Group 🧑‍💻](https://t.me/ambro_x_bot)
 
-* [✅ Join Public Group ⚡](https://chat.whatsapp.com/KLu7a2r4bc4JFV8s5epvsF)
+* [✅ Join Public Group ⚡](https://chat.whatsapp.com/JFwtJKpTpdhKAuzfwidUbN)
 
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
